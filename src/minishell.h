@@ -140,5 +140,6 @@ char			*get_user_input(t_gctrl *gctrl, t_data *data);
 char			*expand_input(t_data *data, char *str);
 
 // built-ins
-int	ft_echo(char **args);
+int				ft_echo(char **args);
+
 #endif
