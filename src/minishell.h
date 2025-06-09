@@ -161,5 +161,6 @@ char			*expand_input(t_data *data, char *str);
 t_pretoken		*pretokenize_input(t_data *data, char *raw_input);
 
 // built-ins
-int	ft_echo(char **args);
+int				ft_echo(char **args);
+
 #endif
